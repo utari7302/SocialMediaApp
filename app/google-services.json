@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1061966307115",
+    "project_id": "fb-clone-a202f",
+    "storage_bucket": "fb-clone-a202f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1061966307115:android:2f761ac91accd80a08ef6e",
+        "android_client_info": {
+          "package_name": "com.dejure.fbclone"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1061966307115-q9fgn948p9m8774ua8ct98vo2p89o7b0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB8vQVxL4BwOQejqDVfm9tYmBmCP7KIkzk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1061966307115-q9fgn948p9m8774ua8ct98vo2p89o7b0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
